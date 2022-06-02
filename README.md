@@ -1,6 +1,9 @@
 # docker-bert-cuad
 ### Streamlit container with Bert trained on CUAD dataset for contract analysis and clause extraction.
 
+![contracts](https://user-images.githubusercontent.com/27162948/171717588-4cf26c0a-874e-45ac-b080-a00f39664177.jpg)
+
+
 This is a Docker implementation of the Bert Base model trained on the CUAD dataset. The front end is a streamlit web app that allows to upload any contract and extract one or all the 41 aspects of a commercial contract. This is a CPU and Bert Base version, for the full GPU version and the Base, Large and X-Large models please check my next repo.
 
 Additional information about the project:
@@ -23,6 +26,9 @@ git clone  mbenetti/docker-bert-cuad
 cd folder....
 docker build -t streamlitappgpu:latest .
 ```
+![docker deployment 2](https://user-images.githubusercontent.com/27162948/171717515-ab950a1c-3b91-42e1-8851-1d5845505384.png)
+
+![docker deployment](https://user-images.githubusercontent.com/27162948/171717499-99096501-bbd1-41e5-99c0-da3dfd3829ea.png)
 
 **Original Project:** 
 
