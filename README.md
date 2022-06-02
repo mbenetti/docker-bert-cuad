@@ -19,11 +19,13 @@ and open http://localhost:8501
 To build from source
 
 ```git
-git clone  mbenetti/docker-bert-cuad
+https://github.com/mbenetti/docker-bert-cuad.git  
 ```
 
 ```cmd
-cd folder....
+cd docker-bert-cuad
+```
+```
 docker build -t streamlitappgpu:latest .
 ```
 ![docker deployment 2](https://user-images.githubusercontent.com/27162948/171717515-ab950a1c-3b91-42e1-8851-1d5845505384.png)
