@@ -1,5 +1,5 @@
 # Streamlit Web App on of Bert transformer for Clause extraction on commercial contracts 
-### Streamlit and a Bert implementation for contract analysis and clause extraction.
+### Bert implementation for contract analysis and clause extraction.
 
 ![contracts](https://user-images.githubusercontent.com/27162948/171717588-4cf26c0a-874e-45ac-b080-a00f39664177.jpg)
 
