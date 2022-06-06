@@ -1,15 +1,17 @@
-# docker-bert-cuad
+# Streamlit Web App on of Bert transformer for Clause extraction on commercial contracts 
 ### Streamlit and a Bert implementation for contract analysis and clause extraction.
 
 ![contracts](https://user-images.githubusercontent.com/27162948/171717588-4cf26c0a-874e-45ac-b080-a00f39664177.jpg)
 
 
-This is a Docker implementation of the Bert Base model trained on the CUAD dataset. The front end is a streamlit web app that allows to upload any contract and extract one, or all of the 41 aspects of a commercial contract. This repo contains intruction to run the CPU and the GPU versions. 
+This is a Docker implementation of the Bert Base model trained on the CUAD dataset. The front end is a streamlit web app that allows to upload any contract and extract one, or all of the 41 aspects of a commercial contract. This repo contains instructions to run the CPU and the GPU implementations. 
 
 Additional information about the project:
 Contract Understanding Atticus Dataset (CUAD) v1 is a corpus of 13,000+ labels in 510 commercial legal contracts that have been manually labeled under the supervision of experienced lawyers to identify 41 types of legal clauses that are considered important in contact review in connection with a corporate transaction, including mergers & acquisitions, etc.
 
-Run:
+Prerequisites are Docker installed on your system:
+
+Then run:
 
 ```cmd
 sudo docker run -p 8501:8501 25987908/cuad-cpu-bbase:latest
