@@ -1,0 +1,82 @@
+1)Document Name:
+   Promotion and Distribution Agreement 
+2)Parties:
+   Whitesmoke Inc., with registered offices/principle place of business at 501 Silverside Road, Suite 105, Wilmington DE 19809, USA, (“Distributor”), and Google Inc 
+3)Agreement Date:
+   1 August 2011 
+4)Effective Date:
+   1 August 2011 
+5)Expiration Date:
+   This Agreement shall commence on the Effective Date and, unless earlier terminated as set out in this Agreement, shall continue for the Term. 
+6)Renewal Term:
+    
+7)Notice Period To Terminate Renewal:
+    
+8)Governing Law:
+   This Agreement is governed by English law and the parties submit to the exclusive jurisdiction of the English courts in relation to any dispute (contractual or non-contractual) concerning this Agreement save that either party may apply to any court for an injunction or other relief to protect its Intellectual Property Rights. 
+9)Most Favored Nation:
+   Notwithstanding the foregoing, in no event will the [ * ] of [ * ] by Google to Distributor for all [ * ] and all [ * ] in respect of [ * ] (as set out in Exhibit A) exceed [ * ] ([ * ]) of the [ * ] to Distributor for such [ * ]. 
+10)Non-Compete:
+   Distributor shall not, and shall not allow any third party to (except to the extent that such prohibitions are not permitted by law): 
+11)Exclusivity:
+   Except as set out in Clause 2 (Licence Grant and Restrictions) and except for End Users as expressly set out in this Agreement, Distributor shall not offer or distribute the Products to any third party. 
+12)No-Solicit Of Customers:
+    
+13)Competitive Restriction Exception:
+   Distributor shall not, and shall not allow any third party to (except to the extent that such prohibitions are not permitted by law): 
+14)No-Solicit Of Employees:
+    
+15)Non-Disparagement:
+   During the Term and for a period of [ * ] following the expiration or termination of this Agreement, Distributor shall not, and shall not engage any third party to: 
+16)Termination For Convenience:
+   if any suspension under this Clause continues for more than 30 days, Distributor may, at any time until use of the distribution or use of the Products or the Google Trademarks is reinstated, terminate this Agreement immediately upon written notice. 
+17)Right of First Refusal, Offer or Negotiation (ROFR/ROFO/ROFN):
+   If the [ * ] Criteria Checker returns True, Distributor shall offer the End User the opportunity to install the [ * ] in conjunction with the Distributor App. If the [ * ] Criteria Checker returns False, Distributor shall not offer such End User the opportunity to install the [ * ]. 
+18)Change Of Control:
+   [ * ] may terminate this Agreement immediately upon written notice if there is a Change of Control of [ * ]. 
+19)Anti-Assignment:
+   [ * ] may [ * ]any of its rights or obligations under this Agreement without the prior written consent of [ * ]. 
+20)Revenue/Profit Sharing:
+   Notwithstanding the foregoing, in no event will the [ * ] of [ * ] by Google to Distributor for all [ * ] and all [ * ] in respect of [ * ] (as set out in Exhibit A) exceed [ * ] ([ * ]) of the [ * ] to Distributor for such [ * ]. 
+21)Price Restrictions:
+   Google shall have the right, at its sole option, to increase the [ * ] by providing written notice to Distributor no later than [ * ] prior to the end of the Term. 
+22)Minimum Commitment:
+   “Maximum Distribution Commitment” means [* ] , as may be increased by Google pursuant to Clause 4.2 (Maximum Distribution Commitment). 
+23)Volume Restriction:
+   Notwithstanding the foregoing, in no event will the [ * ] of [ * ] by Google to Distributor for all [ * ] and all [ * ] in respect of [ * ] (as set out in Exhibit A) exceed [ * ] ([ * ]) of the [ * ] to Distributor for such [ * ]. 
+24)Ip Ownership Assignment:
+   [ * ] may [ * ]any of its rights or obligations under this Agreement without the prior written consent of [ * ]. 
+25)Joint Ip Ownership:
+    
+26)License Grant:
+   Subject to the terms and conditions of this Agreement, Google grants to Distributor a limited, [ * ] license during the Term to use the Google Trademarks, in accordance with Google’s trademark usage guidelines, solely to market and promote the Products consistent with this Agreement, provided that all use of the Google Trademarks shall be subject to Google’s prior review and advance written consent. 
+27)Non-Transferable License:
+   Except as set out in Clause 2 (Licence Grant and Restrictions) and except for End Users as expressly set out in this Agreement, Distributor shall not offer or distribute the Products to any third party. 
+28)Affiliate License-Licensor:
+   Subject to the terms and conditions of this Agreement, Google grants to Distributor a limited, [ * ] license during the Term to use the Google Trademarks, in accordance with Google’s trademark usage guidelines, solely to market and promote the Products consistent with this Agreement, provided that all use of the Google Trademarks shall be subject to Google’s prior review and advance written consent. 
+29)Affiliate License-Licensee:
+   Subject to the terms and conditions of this Agreement, Google grants to Distributor a limited, [ * ] license during the Term to use the Google Trademarks, in accordance with Google’s trademark usage guidelines, solely to market and promote the Products consistent with this Agreement, provided that all use of the Google Trademarks shall be subject to Google’s prior review and advance written consent. 
+30)Unlimited/All-You-Can-Eat-License:
+   Subject to the terms and conditions of this Agreement, Google grants to Distributor a limited, [ * ] license during the Term to use the Google Trademarks, in accordance with Google’s trademark usage guidelines, solely to market and promote the Products consistent with this Agreement, provided that all use of the Google Trademarks shall be subject to Google’s prior review and advance written consent. 
+31)Irrevocable Or Perpetual License:
+    
+32)Source Code Escrow:
+    
+33)Post-Termination Services:
+    
+34)Audit Rights:
+   During the Term, and for a period of [ * ] thereafter, Google may audit Distributor’s relevant records to confirm Distributor’s compliance with this Agreement. 
+35)Uncapped Liability:
+   The foregoing Clauses 10.1 to 10.5 states the parties’ entire liability and exclusive remedy with respect to infringement of a third party’s Intellectual Property Rights. 
+36)Cap On Liability:
+   Subject to Clauses 9.1 and 9.2, each party’s total liability under or in connection with this Agreement (whether in contract, tort or otherwise) arising in any Contract Year is limited to the greater of:     (a) [ * ] Euros ([ * ] Euros); and     (b) [ * ]% of the total payment due to the Distributor in the relevant Contract Year pursuant to Clause 4 (Payment Terms). 
+37)Liquidated Damages:
+    
+38)Warranty Duration:
+   Google warrants that the Distribution Products will for a period of [ * ] from the date of their supply to Distributor be free from any defect which has a materially adverse effect on their use or operation. 
+39)Insurance:
+    
+40)Covenant Not To Sue:
+    
+41)Third Party Beneficiary:
+    

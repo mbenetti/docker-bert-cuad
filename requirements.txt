@@ -1,0 +1,12 @@
+streamlit
+collection
+pdfplumber
+pypdf2
+docx2txt
+transformers
+torch
+torchvision
+torchaudio
+cuda-python
+pytesseract
+click
