@@ -64,16 +64,28 @@ Copy the model folder inside the "cuad-models" folder. Build the container run t
 docker build -t docker-bert-cuad:latest .
 ```
 
-**Screenshoots**
-
-![docker deployment 3](https://user-images.githubusercontent.com/27162948/172209631-0eed4a47-04d0-4063-ac70-2b4bbbda2672.png)
-![docker deployment 4](https://user-images.githubusercontent.com/27162948/172210219-b9863aec-d32f-4727-93f0-e5865d7e7e13.png)
-
-![docker deployment 2](https://user-images.githubusercontent.com/27162948/172209609-27efff13-415b-4d09-95e6-09cdf5f8c8b3.png)
-![docker deployment](https://user-images.githubusercontent.com/27162948/172209676-87a62bcb-22d3-4ddd-8a7e-082f315e3b1c.png)
+**Screenshots**
 
 
-**Project:** 
+![Bert-contract01](https://user-images.githubusercontent.com/27162948/173197297-2bb27090-3623-4a53-9a09-334ebd8c8f23.png)
+
+![Bert-contract02](https://user-images.githubusercontent.com/27162948/173197300-4b981563-bf67-411d-ac11-3eb2230fe0bb.png)
+
+![Bert-contract03](https://user-images.githubusercontent.com/27162948/173197303-8f12e0ff-f1f6-4369-8bcc-69cda864cc7e.png)
+
+![Bert-contract04](https://user-images.githubusercontent.com/27162948/173197306-3ae71697-25a3-489d-8e78-1ffb7645eee1.png)
+
+![Bert-contract05](https://user-images.githubusercontent.com/27162948/173197308-dbf91f59-bf8d-47b5-afd7-035625a0f3c3.png)
+
+**Benetti Mauro 05.2022**
+
+**License: CC BY 4.0** 
+
+###### https://creativecommons.org/licenses/by/4.0/
+
+** **
+
+**Project that create the dataset:** 
 
 https://www.atticusprojectai.org/cuad
 
@@ -87,9 +99,3 @@ https://huggingface.co/datasets/cuad
 
 *Bert models are under Apache License 2.0*
 
-** ** 
-**Benetti Mauro 05.2022**
-
-**License: CC BY 4.0** 
-
-###### https://creativecommons.org/licenses/by/4.0/
