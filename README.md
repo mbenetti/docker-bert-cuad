@@ -6,6 +6,12 @@
 
 This is a Docker implementation of the Bert Base model trained on the CUAD dataset. The front end is a streamlit web app that allows to upload any contract and extract one, or all of the 41 aspects of a commercial contract. This repo contains instructions to run the CPU and the GPU implementations. 
 
+The gentel introduction can be found on my previous repo: 
+
+```
+https://github.com/mbenetti/bert-cuad.git
+```
+
 Additional information about the project:
 Contract Understanding Atticus Dataset (CUAD) v1 is a corpus of 13,000+ labels in 510 commercial legal contracts that have been manually labeled under the supervision of experienced lawyers to identify 41 types of legal clauses that are considered important in contact review in connection with a corporate transaction, including mergers & acquisitions, etc.
 
@@ -68,23 +74,23 @@ docker build -t docker-bert-cuad:latest .
 ![docker deployment](https://user-images.githubusercontent.com/27162948/172209676-87a62bcb-22d3-4ddd-8a7e-082f315e3b1c.png)
 
 
-**Original Project:** 
+**Project:** 
 
 https://www.atticusprojectai.org/cuad
 
-**Git Hub: Bert model and training scripts** 
+**Git Hub of the project:** 
 
 https://github.com/TheAtticusProject/cuad
 
-**CUAD Dataset: created by the Atticus Project** 
+**CUAD Dataset:** 
 
 https://huggingface.co/datasets/cuad
 
-All Bert models have Apache License 2.0
+*Bert models licences Apache License 2.0*
 
-*Implementation by Benetti Mauro 05.2022*
+** ** 
+**Benetti Mauro 05.2022**
 
-mauro.benetti@gmail.com
+**License: CC BY 4.0** 
 
-*License: CC BY 4.0* 
-#### https://creativecommons.org/licenses/by/4.0/
+###### https://creativecommons.org/licenses/by/4.0/
