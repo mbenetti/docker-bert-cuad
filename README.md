@@ -15,9 +15,8 @@ https://github.com/mbenetti/bert-cuad.git
 Additional information about the project:
 Contract Understanding Atticus Dataset (CUAD) v1 is a corpus of 13,000+ labels in 510 commercial legal contracts that have been manually labeled under the supervision of experienced lawyers to identify 41 types of legal clauses that are considered important in contact review in connection with a corporate transaction, including mergers & acquisitions, etc.
 
-Prerequisites are Docker installed on your system:
-
-Then run:
+** **
+Prerequisites are Docker installed on your system. Then run:
 
 ```cmd
 sudo docker run -p 8501:8501 25987908/cuad-cpu-bbase:latest
@@ -86,7 +85,7 @@ https://github.com/TheAtticusProject/cuad
 
 https://huggingface.co/datasets/cuad
 
-*Bert models licences Apache License 2.0*
+*Bert models are under Apache License 2.0*
 
 ** ** 
 **Benetti Mauro 05.2022**
