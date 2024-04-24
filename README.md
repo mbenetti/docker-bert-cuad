@@ -79,7 +79,7 @@ docker build -t docker-bert-cuad:latest .
 
 **Benetti Mauro 05.2022**
 
-https://www.maurobenetti.ml
+[https://www.maurobenetti.ml](https://mbenetti.github.io/portfolio/)
 
 **License: CC BY 4.0** 
 
@@ -109,7 +109,7 @@ Images from: pixabay.com, stocksnap.io and unsplash.com *(Free for commercial us
 </sub></sup>
 
 <sup><sub>
-**For more projects, visit  https://maurobenetti.ml**
+**For more projects, visit  https://mbenetti.github.io/portfolio/**
 </sub></sup>
 
 <sup><sub>
